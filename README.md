@@ -10,7 +10,7 @@
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/Mdialityc/reymani-backend.git
+   git clone https://github.com/rafaelrdgz/reymani-backend.git
    cd reymani-backend
    ```
 
